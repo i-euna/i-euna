@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 This project is a microservice that serves as the backend for a University Course Management System. It is designed to handle CRUD operations on courses offered by the university. As part of a larger microservices architecture, this microservice focuses on managing the course-related functionalities of the university.</br>
 
 **Tech Stack:** Java 16, REST, Spring Boot, SQLite, JPA, Maven, JUnit, Mockito, Jacoco, Swagger, Jenkins, Docker</br>
-**Repo:** [Course Management](https://github.com/Euna-Islam/UniversityManagement/tree/main/CourseManagement)</br>
+**Repo:** [Course Management](https://github.com/Euna-Islam/UniversityManagement/tree/main/apps/course-management)</br>
 **Working on:** Adding microservice student management</br>
 
 ### Code Mastery
