@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 ## Projects
 ### Open Source Contributions to Eclipse Tractusx
 Open source contribution to Tractus-X Connector tutorial repo.
-
 - Written End-to-End tests
 - Refactored Java backend code
 - Written Python script for performance result aggregation
 
-Tech stack: Java, EDC connector, Python, Postgres, Docker, Kubernetes, Terraform
-
-[Contribution Link](https://github.com/ieuna)
+**Tech stack:** Java, EDC connector, Python, Postgres, Docker, Kubernetes, Terraform</br>
+**Contributor Profile:** [Github](https://github.com/ieuna)</br>
 ### University Course Management
 This project is a microservice that serves as the backend for a University Course Management System. It is designed to handle CRUD operations on courses offered by the university. As part of a larger microservices architecture, this microservice focuses on managing the course-related functionalities of the university.</br>
 
