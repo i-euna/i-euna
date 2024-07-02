@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ### Open Source Contributions to Eclipse Tractusx
 Open source contribution to Tractus-X Connector tutorial repo.
 - Written End-to-End tests
-- Refactored Java backend code
-- Written Python script for performance result aggregation
+- Fixed bugs, documentation
 
 **Tech stack:** Java, EDC connector, Python, Postgres, Docker, Kubernetes, Terraform</br>
 **Contributor Profile:** [Github](https://github.com/ieuna)</br>
