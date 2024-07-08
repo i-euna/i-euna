@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 ## Projects
 ### Open Source Contributions to Eclipse Tractusx
 Open source contribution to Tractus-X Connector tutorial repo.
--Added REST endpoint to backend service
--Wrote End-to-End tests for backend service API
--Fixed bugs
--Updated documentation
+
+- Added REST endpoint to backend service
+- Wrote End-to-End tests for backend service endpoints
+- Fixed bugs
+- Updated documentation
 
 **Tech stack:** Java, EDC connector, Python, Postgres, Docker, Kubernetes, Terraform</br>
 **Contributor Profile:** [Github](https://github.com/ieuna)</br>
