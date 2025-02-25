@@ -20,21 +20,20 @@ Here are some ideas to get you started:
 ### Open Source Contributions to Eclipse Tractusx
 Open source contribution to Tractus-X Connector tutorial repo.
 
-- Added REST endpoint to backend service
-- Wrote End-to-End tests for backend service endpoints
-- Fixed bugs
-- Updated documentation
+- Developed a Java-based backend service with E2E tests for Eclipse Tractus-X to automate the testing of EDC connectors and accelerate development cycles.
+- Resolved reported bugs.
 
 **Tech stack:** Java, EDC connector, Python, Postgres, Docker, Kubernetes, Terraform</br>
 **Contributor Profile:** [Github](https://github.com/ieuna)</br>
-### University Course Management
+### Microservice Playground
+(University Management Project)
 This project is a microservice that serves as the backend for a University Course Management System. It is designed to handle CRUD operations on courses offered by the university. As part of a larger microservices architecture, this microservice focuses on managing the course-related functionalities of the university.</br>
 
 **Tech Stack:** Java 16, REST, Spring Boot, SQLite, JPA, Maven, JUnit, Mockito, Jacoco, Swagger, Jenkins, Docker</br>
 **Repo:** [Course Management](https://github.com/Euna-Islam/UniversityManagement/tree/main/apps/course-management)</br>
 **Working on:** Adding microservice student management</br>
 
-### Code Mastery
+### Code Practice Hub
 A comprehensive Git repository showcasing my dedication to continuous learning and improvement in software development. This project serves as a platform for my practice and exploration in various areas, including:
 - [Design Principles](https://github.com/Euna-Islam/code-mastery/tree/main/design-principles#readme)
 - [Object Oriented Programming](https://github.com/Euna-Islam/code-mastery/tree/main/4-pillars-of-oop)
