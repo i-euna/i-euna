@@ -42,5 +42,10 @@ A comprehensive Git repository showcasing my dedication to continuous learning a
 - [Data Structures](https://github.com/Euna-Islam/code-mastery/tree/main/data-structures)</br>
 **Language:** Java</br>
 **Repo:** [Code Mastery](https://github.com/Euna-Islam/code-mastery)</br>
-**Working on:** Java Multithreading, Concurrency, Design Patterns</br>
+
+### This Week
+This week, I am deep diving into:
+- Deployment Strategy
+- Scalability
+- Dynamic Programming Patterns</br>
 
